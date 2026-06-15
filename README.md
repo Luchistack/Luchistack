@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm **Luchistack**, a **Software Engineer** with a
 ---
 
 ## 🌐 Let's Connect!
-- 🔗 LinkedIn: [ndike-faith-286775143](https://www.linkedin.com/in/ndike-faith-286775143)
+- 🔗 LinkedIn: [dike-faith-286775143](https://www.linkedin.com/in/ndike-faith-286775143)
 - 📧 Email: [ftoluchi@gmail.com](mailto:ftoluchi@gmail.com)
 
 ---
